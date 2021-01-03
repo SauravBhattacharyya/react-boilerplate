@@ -1,0 +1,37 @@
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+.button1 {
+  background-color: #4caf50;
+}
+
+.button2 {
+  background-color: #008cba;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.ul {
+  list-style-type: none;
+}
+
+.ul li {
+  text-align: left;
+}
